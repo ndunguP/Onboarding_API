@@ -1,0 +1,32 @@
+{
+  "name": "onboarding_api",
+  "version": "1.0.0",
+  "description": "BigCo Onboarding API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node cool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndunguP/Onboarding_API.git"
+  },
+  "keywords": [
+    "api",
+    "onboarding",
+    "bigco",
+    "cool,",
+    "ascii",
+    "faces"
+
+  ],
+  "author": "PETER NDUNGÚ <peter.ndunguoz50@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndunguP/Onboarding_API/issues"
+  },
+  "homepage": "https://github.com/ndunguP/Onboarding_API#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
