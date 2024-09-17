@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node cool.js"
+    "start": "node cool.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
     "cool,",
     "ascii",
     "faces"
-
   ],
   "author": "PETER NDUNGÚ <peter.ndunguoz50@gmail.com>",
   "license": "ISC",
@@ -27,6 +26,10 @@
   },
   "homepage": "https://github.com/ndunguP/Onboarding_API#readme",
   "dependencies": {
-    "cool-ascii-faces": "^1.3.4"
+    "body-parser": "^1.20.3",
+    "cool-ascii-faces": "^1.3.4",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
   }
 }
